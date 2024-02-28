@@ -1,3 +1,3 @@
 static final string nexusURL(){
-    return "<nexus-pri-ip>:8081"
+    return "35.173.1.137:8081"
 }
